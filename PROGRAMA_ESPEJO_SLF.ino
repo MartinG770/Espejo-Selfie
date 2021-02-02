@@ -17,7 +17,7 @@ BluetoothSerial ESP_BT;
 #endif
 
 //VARIABLES QUE SE USAN EN EL PROGRAMA//
-/*int incoming;
+int incoming;
 char character;
 int LED = 13;
 int bos = 14;
@@ -32,7 +32,7 @@ int b = 0;
 int y = 0;
 int d = 0;
 int q = 0;
-int inicio = 0;*/
+int inicio = 0;
 //.............................................//
 
 //ARCHIVOS PARA GUARDAR FOTO, GUARDAR ARCHIVO BASE 64 Y FOTO A ENVIAR//
@@ -186,9 +186,9 @@ void loop() {
     }
     delay(100);
     //..............................//
-  }
+  */}
   //................................//
-
+/*
   //ESTABLECE LOS BOTONES Y TOMA LA LECTURA
   int btna = 3;
   int btnb = 16;
